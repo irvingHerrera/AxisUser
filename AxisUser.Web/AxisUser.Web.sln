@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxisUser.Web", "AxisUser.We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxisUser.Core", "AxisUser.Core\AxisUser.Core.csproj", "{429052D4-4AAA-45D1-AF2A-C28099BB621A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxisUser.Data", "AxisUser.Data\AxisUser.Data.csproj", "{B1F98C41-105B-45D7-ADA3-D09DD43F92A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{429052D4-4AAA-45D1-AF2A-C28099BB621A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{429052D4-4AAA-45D1-AF2A-C28099BB621A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{429052D4-4AAA-45D1-AF2A-C28099BB621A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F98C41-105B-45D7-ADA3-D09DD43F92A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F98C41-105B-45D7-ADA3-D09DD43F92A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F98C41-105B-45D7-ADA3-D09DD43F92A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F98C41-105B-45D7-ADA3-D09DD43F92A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
